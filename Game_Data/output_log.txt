@@ -1,0 +1,76 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.364 seconds
+Platform assembly: F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Новая папка\GameNEA\GameNEA\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.355866 ms
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.244204 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.191470 ms (FindLiveObjects: 0.045655 ms CreateObjectMapping: 0.008494 ms MarkObjects: 0.133073 ms  DeleteObjects: 0.003539 ms)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.315696 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.149708 ms (FindLiveObjects: 0.032914 ms CreateObjectMapping: 0.010971 ms MarkObjects: 0.101574 ms  DeleteObjects: 0.003539 ms)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.269332 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.155016 ms (FindLiveObjects: 0.024774 ms CreateObjectMapping: 0.020527 ms MarkObjects: 0.105114 ms  DeleteObjects: 0.003893 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2570 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.341532 ms
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 185.
+Total: 0.219430 ms (FindLiveObjects: 0.019465 ms CreateObjectMapping: 0.007432 ms MarkObjects: 0.127765 ms  DeleteObjects: 0.064059 ms)
+
